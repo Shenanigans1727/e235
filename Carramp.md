@@ -18,7 +18,7 @@
 
 ##### 3 miniature yellow pieces 
 
-#Instructions
+## Instructions
 
 ##### 1. Place the long gray piece on top of the yellow long piece in the middle section of the bottom row.
 
